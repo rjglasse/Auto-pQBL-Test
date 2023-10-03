@@ -1,0 +1,80 @@
+Unit_name: Making Decisions Test
+Page_name: How to represent a decision
+
+1. Instead of categorizing statements as decision-making, looping, or controlling, how could you describe the functional role of decision-making statements in programs?
+
+    A) They are used to control the execution flow based on certain conditions.
+    - Correct. Decision-making statements indeed control the flow of execution based on conditions.
+  
+    B) They are used to repeatedly execute a block of code.
+    - Incorrect. These are the functionalities of loop control statements, not decision-making statements.
+
+    C) They modify the order of execution from its normal sequence.
+    - Incorrect. Though technically true as they do control the flow, this answer is not complete. They specifically do so based on specific conditions.
+
+2. Why might you choose an `if` statement over a `switch` statement when implementing decisions in your program?
+
+    A) If the decision involves testing whether a single condition is true or false.
+    - Correct. In such cases, an `if` statement is simpler and more understandable.
+  
+    B) If I have a block of code that needs to be executed repeatedly.
+    - Incorrect. Repeated execution calls for a looping statement like `for`, `while` or `do-while`.
+    
+    C) If I want to interrupt the sequence of execution.
+    - Incorrect. In Java, you would typically use a `break` or `continue` statement to interrupt the flow of execution.
+
+3. What condition would you write in an `if` statement to execute a certain block of code if a variable `x` is an odd number?
+
+    A) `if (x % 2 != 0) {}`
+    - Correct. This condition checks if `x` divided by `2` leaves a remainder, which is true for odd numbers.
+  
+    B) `if (x > 0) {}`
+    - Incorrect. This condition checks whether `x` is positive, not whether it is odd.
+    
+    C) `if (x % 2 == 0) {}`
+    - Incorrect. This condition checks whether `x` is even, not odd.
+
+4. Consider this Java code snippet:
+
+```java
+int x = 5;
+if (x > 10) {
+    System.out.println("A");
+} else {
+    System.out.println("B");
+}
+```
+Why does this print "B"?
+
+    A) Because `x` is not declared.
+    - Incorrect. The `x` is correctly declared and initialized as `5`.
+  
+    B) Because `5` is not greater than `10`.
+    - Correct. Since `x` is not greater than `10`, the program executes the `else` clause, thus printing "B".
+    
+    C) Because there is an error in the program.
+    - Incorrect. The program has no errors; it prints "B" because `x` is not greater than `10`.
+
+5. By explaining how switch cases in Java work, justify why this code:
+
+```java
+String grade = "B";
+switch (grade) {
+    case "A":
+        System.out.println("Excellent");
+        break;
+    case "B":
+        System.out.println("Good");
+        break;
+}
+```
+Prints "Good".
+
+    A) Because "B" equals "Good".
+    - Incorrect. Not specifically. Here, the value in the switch statement is compared with the cases. The case that matches the value, its subsequent block gets executed.
+    
+    B) Because the matched case block is executed until a break is encountered or the switch block ends.
+    - Correct. Upon finding the matching case with the value in the `switch` statement ("B" in this case), the code inside that case statement gets executed.
+    
+    C) Because the `break` statement causes the program to exit before it can print "Excellent".
+    - Incorrect. It is not that the program exits before printing "Excellent", it is because the "grade" value doesn't match with the "A" case. The `break` statement is used to prevent the flow of execution into the next case block.
