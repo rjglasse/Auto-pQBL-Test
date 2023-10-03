@@ -1,0 +1,151 @@
+Unit_name: Making Decisions Test
+Page_name: How to represent a decision using Java
+
+1. What is an `if` statement used for in Java programming?
+    
+    A) To cycle through elements of an array.
+    - Incorrect. You're likely thinking of a loop, like a `for` loop. An `if` statement tests conditions and directs the flow of the program based on these conditions.
+  
+    B) To test conditions and direct the program flow based on these conditions.
+    - Correct. `if` statements in Java are used to test a condition. Depending on whether the condition is true or false, the program flow is directed accordingly.
+
+    C) To store multiple values of the same datatype.
+    - Incorrect. Arrays are used to store multiple values of the same type. `If` statements are not used for storage, but for control flow.
+
+2. In the following scenario, which code block will be executed?
+```java
+int age = 18;
+if (age < 18) {
+    System.out.println("Minor");
+} else {
+    System.out.println("Adult");
+}
+```
+    A) "Minor"
+    - Incorrect. The `if` condition checks if `age` (which is 18) is less than 18, which it isn't.
+
+    B) "Adult"
+    - Correct. Since `age` (18) is not less than 18, the script will run the "else" block and print "Adult".
+
+    C) The code will not compile.
+    - Incorrect. The code is syntactically correct. The `if/else` statement will correctly evaluate the condition and execute a code block accordingly.
+
+3. Is it mandatory to have an `else` statement with an `if` statement in Java?
+    A) No, an `if` statement can exist without an `else` statement. When the `if` condition is false, nothing further occurs and the program continues to run.
+    - Correct. The `else` statement is not required in Java. If the `if` condition is false, then the program will continue without running the `else` block.
+
+    B) Yes, every `if` statement needs an `else` statement because the `if` condition might be false.
+    - Incorrect. While it's true that the `else` statement runs when the `if` condition is false, it is still not mandatory. The `if` condition being false won't crash the program.
+
+    C) Only sometimes, based on the program's requirements.
+    - Incorrect. This is misleading. While `else` statements are used based on program requirements, the `if` statement itself doesn't require it.
+
+4. Consider this scenario. When is 'B' printed?
+```java
+if (false) {
+    System.out.println('A'); 
+} else {
+    System.out.println('B');
+}
+```
+    A) 'B' is printed if the condition in the `if` statement is false.
+    - Correct. Since the `if` statement contains `false`, the `else` block is run, printing 'B'.
+
+    B) 'B' is never printed because it is contained in the `else` statement.
+    - Incorrect. The `else` block runs whenever the `if` condition is false. In this example, `else` runs because the condition is explicitly false.
+
+    C) 'B' is always printed, regardless of the condition.
+    - Incorrect. The character 'B' is printed only when the `if` condition is false.
+
+5. Given the following code, what happens if `temp` is greater than or equal to `freezing`?
+```java
+int freezing = 0;
+int temp = 15;
+if (temp < freezing) {
+    System.out.println("It's freezing!");
+} 
+```
+    A) It will print "It's freezing!"
+    - Incorrect. The condition `temp < freezing` is not met, so the `if` block does not run and nothing is printed.
+
+    B) The program will skip the `if` block and continue executing following code.
+    - Correct. In the given code the condition in the `if` statement is not met, so the program continues executing following code.
+
+    C) The code will result in error.
+    - Incorrect. The code is correct and will successfully compile. There is nothing wrong with an `if` statement that doesn't run.
+
+1. Consider the following code snippet, what is the output?
+
+```java
+boolean x = true;
+boolean y = false;
+boolean z = true;
+System.out.println(x && y || z);
+```
+  
+    A) true
+    - Correct. The && operator has higher precedence than the || operator, so x && y gets evaluated first, yielding false, then false || z = true.
+  
+    B) false
+    - Incorrect. The && operator has higher precedence than the || operator. So, even though x && y is false, the overall expression is true because of the || z.
+
+    C) Compilation Error
+    - Incorrect. This code will compile and run fine. The && operator has higher precedence than the || operator, and this expression is therefore valid.
+
+2. How might you use logical operators in Java to check if a number is both positive and even?
+
+    A) num > 0 && num % 2 == 0
+    - Correct. This is the correct way to use the && operator to check both conditions.
+
+    B) num > 2 || num % 2 == 0
+    - Incorrect. The || operator would make the statement true if either of the conditions was met. We are looking for something that's both positive and even.
+
+    C) num % 2 == 0 && num < 0
+    - Incorrect. While `num % 2 == 0` checks if a number is even, `num < 0` checks if it's negative, not positive.
+
+3. What does the ! (logical NOT) operator do in Java?
+
+    A) It negates a boolean value.
+    - Correct. The ! operator indeed negates a boolean result.
+   
+    B) It performs a bitwise operation.
+    - Incorrect. To perform bitwise operations in Java, you use operators such as & and |.
+
+    C) It calls a function.
+    - Incorrect. In Java, the '!' operator is not used for function calling. It is used for inverting boolean expressions.
+
+4. Consider the following code snippet. Assuming x is 3, what will the System output?
+
+```java
+int x = 3;
+boolean y = !(x > 5) && (x < 10);
+System.out.println(y);
+```
+
+    A) true
+    - Correct. '!(x > 5)' evaluates to true and '(x < 10)' also evaluates to true. Therefore, 'true && true' equals true.
+  
+    B) false
+    - Incorrect. The statement 'x > 5' is false, hence '!(x > 5)' would be true. Then, 'x < 10' is also true. When you AND two true values, you get true as a result.
+
+    C) The code will not run.
+    - Incorrect. The provided code snippet is completely correct and it will run.
+
+5. Using the given code snippet, what is the output
+
+```java
+boolean x = false;
+boolean y = true;
+boolean z = true;
+
+System.out.println(x || y && z);
+```
+
+    A) true
+    - Correct. The && operator has higher precedence than the || operator. So, y && z get evaluated to true first and then true || x yields true.
+
+    B) false
+    - Incorrect. Even though x is false, y && z evaluates to true, and true || false is always true.
+
+    C) Compilation Error
+    - Incorrect. The java code presented here is valid and will not trigger any compilation errors. It makes use of both && and || logical operators.
