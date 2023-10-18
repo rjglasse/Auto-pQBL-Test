@@ -20,26 +20,6 @@ unit_1:
   unit_name: ENTR 3100 - Industrial Landscape
 
   page_1:
-    page_name: How to use prompting to get an accurate and relevant result in generative AI?
+    page_name: Prompting generative AI for accuracy and relevance
     skills:
       - How to use prompting to get an accurate and relevant result in generative AI?
-
-  page_2:
-    page_name: How to train/refine the generative AI response to meet your needs?
-    skills:
-      - How to train/refine the generative AI response to meet your needs?
-  
-  page_3:
-    page_name: What to consider when it comes to ethical concerns with generative AI in supporting learning?
-    skills:
-      - What to consider when it comes to ethical concerns with generative AI in supporting learning?
-  
-  page_4:
-    page_name: How to best fact check the generative AI responses?
-    skills:
-      - How to best fact check the generative AI responses?
-  
-  page_5:
-    page_name: What do emotions play in this conversational style of learning?
-    skills:
-      - What do emotions play in this conversational style of learning?
