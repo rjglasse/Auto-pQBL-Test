@@ -1,0 +1,35 @@
+Unit_name: ENTR 3100 - Industrial Landscape
+Page_name: Prompting generative AI for accuracy and relevance
+
+Question 1: What should be taken into account when prompting a generative AI to achieve more accurate and specific results?
+
+    A) Using only generic prompts to maintain AI's creativity
+    - Incorrect. While AI can generate creative responses to generic prompts, it might not accurately address your specific needs. Providing more detail in your queries likely leads to more focused results.
+
+    B) Crafting prompts that are clear, concise, and direct
+    - Correct. Precise, straightforward prompts guide the AI to provide the response that most closely aligns with your needs.
+
+    C) Always making the prompts as complex and detailed as possible
+    - Incorrect. This approach may confuse the AI or lead it to overfit to the specific details in the prompt, potentially missing the broader point of your query.
+
+1. When working on refining an AI model's output, you've gathered a significant amount of data. What is the best next step?
+
+    A) Immediately start the training process to save time.
+    - Incorrect. While it may seem beneficial to start training immediately, without proper processing and organizing, the data may not be interpreted effectively by the AI model.
+
+    B) Process and organize the data to a machine-recognizable format.
+    - Correct. Prior to training the model, it's important to process and organize the data. Systems work effectively when their input data is well-structured and relevant to the learning goal.
+
+    C) Drop half of the data to avoid overwhelming the model.
+    - Incorrect. Reducing the data might not necessarily lead to better training. Valuable information could be lost, which could have helped better train the AI model. Quality and relevance of data are more important factors to consider.
+
+2. During the process of refining a generative AI model, you've noted that the model isn't performing as well as expected. What might be your next step?
+
+    A) Abandon the model and start over with a new one.
+    - Incorrect. While it might feel like starting fresh could help, usually adjustments and refinements to the existing model based on the evaluation results are a more effective strategy.
+
+    B) Evaluate the model's performance, identify potential areas of improvement and adjust the model accordingly.
+    - Correct. Evaluating the model, identifying weaknesses and refining the model based on feedback is an important part of the process. This iterative process helps increase the performance of the model.
+
+    C) Train the model with an entirely different set of data.
+    - Incorrect. Training the model with a completely new data set is not necessarily the solution to underperformance. You should first try to understand and rectify the issues with the model or the original data set before taking this step.
