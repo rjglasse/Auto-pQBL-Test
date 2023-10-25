@@ -27,7 +27,7 @@ Question 1: How can you improve in crafting a more effective prompting question 
    - Incorrect. While this is a well-formed question, it's not suitable for AI like ChatGPT because its knowledge is pre-October 2021 and it doesn't have access to real-time updates, meaning it wouldn't be able to provide an analysis of the "latest" developments. Always consider the capabilities and the limitations of the AI when formulating your prompts.
    
 Remember: Always consider the aim of your prompt, the specificity and limitations of the AI when crafting your prompts to extract insightful and high-quality outputs.
-Unit_name: Working with Generative AI
+
 Page_name: Getting accurate and relevant results
 
 1. How would you refine the following prompt to obtain detailed and relevant responses from a generative AI? "I need statistics on the number of small businesses in Boston."
