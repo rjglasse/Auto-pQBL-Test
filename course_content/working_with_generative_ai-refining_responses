@@ -1,4 +1,5 @@
 Unit_name: Working with Generative AI
+
 Page_name: Refining responses
 
 Question 1: Which of the following methods can significantly refine the responses of a generative AI like ChatGPT?
@@ -12,8 +13,6 @@ Question 1: Which of the following methods can significantly refine the response
    C) Re-utilizing the same training data over and over again with no revised feedback
    - Incorrect. Reiteration of the same data without revised feedback is less likely to bring any considerable change in AI responses. Active feedback and data diversity are key to refine the AI system.
 
-
-
 Question 2: In applying design thinking for managing an AI project, where should the primary focus lie?
 
    A) Predominantly on AI system coding and technology-centric solutions
@@ -24,6 +23,7 @@ Question 2: In applying design thinking for managing an AI project, where should
 
    C) Solely on the commercial feasibility and scalability of the AI project
    - Incorrect. Although commercial sustainability is a key concern, it should not obscure the vision of user needs and usability. A balanced approach, keeping both user experience and commercial feasibility in check, can result in a sustainable and user-friendly AI solution.Unit_name: Working with Generative AI
+
 Page_name: Refining responses
 
 Improved Question 1: To improve AI responses, what should your approach be?
