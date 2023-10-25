@@ -58,3 +58,38 @@ Improved Question 3: What is a misconception about AI's capabilities?
 
     C) AI can analyze copious amounts of data to unearth unobserved patterns.
     - Incorrect. AI has the strength to handle and analyze large sets of data, revealing intricate patterns that might get overlooked by human analysts.
+Unit_name: Working with Generative AI
+Page_name: Refining responses
+
+1. You are working on a project using a generative AI, but the AI fails to capture the context necessary to give productive outcomes. Which strategy could potentially improve the AI's context understanding?
+
+   A) By significantly expanding the size of the training dataset.
+   - Incorrect. Simply expanding the dataset won’t necessarily improve its context understanding. Contextual understanding requires tailored and focused training methods.
+
+   B) By integrating context-specific questions in the training process.
+   - Correct. By including context-specific questions during training, this imbibes the AI with the ability to understand varying contexts.
+
+   C) By increasing the number of AI-generated example outputs.
+   - Incorrect. Increasing the number of AI outputs doesn't inherently improve its context comprehension because it's more about the quality of the feedback than the quantity.
+
+2. Your generative AI has been flagged for producing harmful content. What is a potential strategy to alleviate such issues?
+
+   A) Implementing a strict data censoring system.
+   - Incorrect. Data censoring is more of a reactionary measure and doesn't necessarily teach the AI what is considered harmful or inappropriate.
+
+   B) Incorporating user feedback and regularly updating the system's understanding of what is harmful.
+   - Correct. Regular user reviews help the system understand various perspectives of what's considered harmful, enabling a more balanced and nuanced response.
+
+   C) Moving the AI's operation to a more high-performance computing environment.
+   - Incorrect. The computing environment may optimize the AI's speed and efficiency but won't necessarily help in understanding the nuances of inappropriate content creation.
+
+3. You wish to see more innovative responses from your AI. How might you coax out more creative thinking from the AI?
+
+   A) Manipulating the core mathematical functions of its algorithm.
+   - Incorrect. While math is a backbone of AI functioning, creativity isn't a function of mathematical operations.
+
+   B) Involving the AI in creative tasks and learning from the way it handles them.
+   - Correct. Exposing AI to a variety of creative contexts can equip it with a broader understanding of creativity.
+
+   C) Upgrading the AI's hardware for extra processing power.
+   - Incorrect. Hardware upgrades may improve performance but won't directly influence the AI's creativity.
