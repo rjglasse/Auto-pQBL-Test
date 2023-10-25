@@ -10,4 +10,18 @@ Page_name: Getting accurate and relevant results
     - Incorrect. Although this includes context (AR and K-12 education), it is still not specific or innovative. You should ask for creative and innovative uses of AR. Additionally, specifying the number of ideas you want could help generate a broader range of possibilities.
 
     C) "Craft ten pioneering and unique applications of Augmented Reality (AR) for promoting interactive learning in K-12 educational environments"
-    - Correct. This prompt not only pertains to the specific educational context and calls for originality but also calls for a substantial number of ideas, which encourages broader thinking and the generation of diverse educational use-cases.
+    - Correct. This prompt not only pertains to the specific educational context and calls for originality but also calls for a substantial number of ideas, which encourages broader thinking and the generation of diverse educational use-cases.Unit_name: Working with Generative AI
+Page_name: Getting accurate and relevant results
+
+Question 1: How can you improve in crafting a more effective prompting question to extract an insightful output from a generative AI system?
+
+A) "I need a lengthy report on the effects of climate change.”
+   - Incorrect. This request lacks a specific focus that guides the AI's response. Remember, being specific is a key to extract quality outputs; try to focus on a specific aspect of climate change.
+
+B) "Compile a concise summary on how entrepreneurship education has evolved over the decades.”
+   - Correct. This request is well balanced with a specific directive ("compile a concise summary"), and focus ("how entrepreneurship education has evolved over the decades"). This will enable the AI to generate a highly relevant and quality output.
+
+C) "Please provide a holistic analysis based on the latest developments in AI technology.”
+   - Incorrect. While this is a well-formed question, it's not suitable for AI like ChatGPT because its knowledge is pre-October 2021 and it doesn't have access to real-time updates, meaning it wouldn't be able to provide an analysis of the "latest" developments. Always consider the capabilities and the limitations of the AI when formulating your prompts.
+   
+Remember: Always consider the aim of your prompt, the specificity and limitations of the AI when crafting your prompts to extract insightful and high-quality outputs.
