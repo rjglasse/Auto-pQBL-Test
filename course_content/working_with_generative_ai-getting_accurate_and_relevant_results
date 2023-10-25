@@ -1,0 +1,13 @@
+Unit_name: Working with Generative AI
+Page_name: Getting accurate and relevant results
+
+1. As an entrepreneur, you are designing an AI-based application to promote interactive learning in K-12 education utilizing Augmented Reality (AR). To ideate and brainstorm, you are planning to leverage GPT-3 to assist you in this process. Which of the following prompts would likely yield the most innovative and diverse range of AR applications for your cause?
+
+    A) "Tell me about AR uses"
+    - Incorrect. The prompt is too general and broad, lacks context, and is not directive towards the specific goal. A more effective approach would be to frame your prompt clearly and directly, specifying the desired context and purpose.
+
+    B) "Discuss ways of involving AR in K-12 education"
+    - Incorrect. Although this includes context (AR and K-12 education), it is still not specific or innovative. You should ask for creative and innovative uses of AR. Additionally, specifying the number of ideas you want could help generate a broader range of possibilities.
+
+    C) "Craft ten pioneering and unique applications of Augmented Reality (AR) for promoting interactive learning in K-12 educational environments"
+    - Correct. This prompt not only pertains to the specific educational context and calls for originality but also calls for a substantial number of ideas, which encourages broader thinking and the generation of diverse educational use-cases.
