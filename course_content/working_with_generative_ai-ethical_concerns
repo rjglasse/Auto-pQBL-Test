@@ -25,3 +25,16 @@ Page_name: Ethical concerns
 
     C) Simultaneously considering all ethical concerns; no single concern should take precedence.
     - Correct. Ethical implementation of AI in education involves carefully balancing a variety of factors, including privacy, AI bias, accountability and understanding. Each concern is crucial and none should be overlooked.
+Unit_name: Working with Generative AI
+Page_name: Ethical concerns
+
+1. As a project team, you're thinking of incorporating an AI assistant for interactive learning. Which aspects of this decision involve ethical concerns?
+
+    A) Potential biases in the AI's responses due to its training data.
+    - Correct. Any AI training depends on its dataset. Misrepresentations or biases in this data would lead to a biased tool which is a significant ethical concern. However, it's equally important to contemplate other dimensions of this issue too i.e. data privacy and consent.
+
+    B) Only the possibility of AI replacing human tutors.
+    - Incorrect. While it's true that AI could reduce the reliance on human tutors, ethical concerns are broader and encompass issues like data privacy, consent and the potential for algorithmic bias. Reflect more about how AI may affect various dimensions of education.
+
+    C) Ensuring that the AI assistant works perfectly without technical errors.
+    - Incorrect. While functional efficiency of the AI assistant is crucial for effective learning, it's not mainly an ethical concern. Ethical debates around AI in education generally revolve around issues like data privacy, consent, and possible biases in AI responses.
