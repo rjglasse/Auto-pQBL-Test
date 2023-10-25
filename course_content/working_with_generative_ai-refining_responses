@@ -23,4 +23,38 @@ Question 2: In applying design thinking for managing an AI project, where should
    - Correct. Design thinking encourages a user-centric approach. Understanding end-user needs and incorporating human factors throughout development enhance user experience, thereby enriching the overall AI solution.
 
    C) Solely on the commercial feasibility and scalability of the AI project
-   - Incorrect. Although commercial sustainability is a key concern, it should not obscure the vision of user needs and usability. A balanced approach, keeping both user experience and commercial feasibility in check, can result in a sustainable and user-friendly AI solution.
+   - Incorrect. Although commercial sustainability is a key concern, it should not obscure the vision of user needs and usability. A balanced approach, keeping both user experience and commercial feasibility in check, can result in a sustainable and user-friendly AI solution.Unit_name: Working with Generative AI
+Page_name: Refining responses
+
+Improved Question 1: To improve AI responses, what should your approach be?
+
+    A) Set very specific instructions for the AI?
+    - Incorrect. While clear instructions are important, being too specific could limit AI's creative potential. Think of it more as a collaborative effort.
+    
+    B) Vary your input’s structure and specificity?
+    - Correct. The approach should be iterative, by experimenting with different instructions, you enable the AI to generate a range of responses.
+    
+    C) Accept any output the AI produces?
+    - Incorrect. Blind acceptance doesn't leverage AI's full capabilities. You need to critically evaluate its output and guide it to improve.
+
+Improved Question 2: When using AI, which factor is not crucial?
+
+    A) Ensuring AI's fairness with varied inputs.
+    - Incorrect. AI fairness is crucial. A biased AI could result in unfair treatment to certain users.
+    
+    B) Maintaining transparency in AI's decisions.
+    - Incorrect. Transparent AI operations are crucial, helping users understand how decisions are made is necessary for resourceful AI use.
+    
+    C) Expecting AI to solve all problems without human assistance.
+    - Correct. AI is a tool meant to work with, not replace, human abilities. Human involvement is still required for efficient problem-solving.
+
+Improved Question 3: What is a misconception about AI's capabilities?
+
+    A) AI can entirely replace human educators.
+    - Correct. While AI can simplify and support education, it can't replicate the empathy, adaptability, and nuanced understanding of human educators.
+
+    B) AI can mimic human emotions and behaviors perfectly.
+    - Incorrect. While AI can simulate some human behaviors, it currently lacks the depth to truly grasp and replicate the full range of human emotions.
+
+    C) AI can analyze copious amounts of data to unearth unobserved patterns.
+    - Incorrect. AI has the strength to handle and analyze large sets of data, revealing intricate patterns that might get overlooked by human analysts.
