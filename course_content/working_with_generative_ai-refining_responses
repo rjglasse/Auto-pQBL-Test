@@ -1,0 +1,26 @@
+Unit_name: Working with Generative AI
+Page_name: Refining responses
+
+Question 1: Which of the following methods can significantly refine the responses of a generative AI like ChatGPT?
+
+   A) Maximizing the AI's processing speed 
+   - Incorrect. Maximizing the AI's processing speed will mostly effectuate quicker responses but it doesn't particularly improve the relevancy and accuracy of responses. 
+
+   B) Feeding it with a broader and relevant data set and iteratively giving feedback on its responses
+   - Correct. By providing diverse and relevant data followed by iterative feedback on AI responses, we can enable the AI system to learn and adjust its decision mechanism, thereby refining its output.
+
+   C) Re-utilizing the same training data over and over again with no revised feedback
+   - Incorrect. Reiteration of the same data without revised feedback is less likely to bring any considerable change in AI responses. Active feedback and data diversity are key to refine the AI system.
+
+
+
+Question 2: In applying design thinking for managing an AI project, where should the primary focus lie?
+
+   A) Predominantly on AI system coding and technology-centric solutions
+   - Incorrect. While AI coding is critical, it should not compromise the understanding of user needs and problems. Thoughtfully balancing entity development with user empathy is a more constructive approach. 
+
+   B) On understanding the end-user's needs and maintaining a human-centric approach throughout
+   - Correct. Design thinking encourages a user-centric approach. Understanding end-user needs and incorporating human factors throughout development enhance user experience, thereby enriching the overall AI solution.
+
+   C) Solely on the commercial feasibility and scalability of the AI project
+   - Incorrect. Although commercial sustainability is a key concern, it should not obscure the vision of user needs and usability. A balanced approach, keeping both user experience and commercial feasibility in check, can result in a sustainable and user-friendly AI solution.
