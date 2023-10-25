@@ -1,4 +1,5 @@
 Unit_name: Working with Generative AI
+
 Page_name: Ethical concerns
 
 1. What potential ethical issues can arise from using generative AI like ChatGPT in the context of personalized learning?
@@ -11,15 +12,16 @@ Page_name: Ethical concerns
 
     C) Students might overly rely on AI-driven personalized learning affecting their information-processing abilities and independent thinking.
     - Incorrect. While an overdependence on AI is a valid concern, this perspective overlooks other equally critical issues like data privacy, and bias in decision-making due to skewed training data. It’s essential in the ethical debate to consider the balance of all such factors.Unit_name: Working with Generative AI
+
 Page_name: Ethical concerns
 
-Question 1: You're developing an AI-assisted learning program for your school. What primary ethical concern should guide your implementation?
+2. Question 1: You're developing an AI-assisted learning program for your school. What primary ethical concern should guide your implementation?
 
-A) Ensuring AI doesn’t show any bias, so all students get unbiased learning. 
-- Incorrect. AI bias is indeed an important concern and must be addressed. However, focusing exclusively on this issue might lead to neglecting other key ethical concerns such as data privacy and accountability.
+    A) Ensuring AI doesn’t show any bias, so all students get unbiased learning. 
+    - Incorrect. AI bias is indeed an important concern and must be addressed. However, focusing exclusively on this issue might lead to neglecting other key ethical concerns such as data privacy and accountability.
 
-B) Keeping student data private, above all. 
-- Incorrect. Absolutely, privacy is critical, but it isn't the only concern. It's crucial to balance it with other ethical issues. Also, solely focusing on privacy might lead to neglecting other factors like AI bias or user comprehension.
+    B) Keeping student data private, above all. 
+    - Incorrect. Absolutely, privacy is critical, but it isn't the only concern. It's crucial to balance it with other ethical issues. Also, solely focusing on privacy might lead to neglecting other factors like AI bias or user comprehension.
 
-C) Simultaneously considering all ethical concerns; no single concern should take precedence.
-- Correct. Ethical implementation of AI in education involves carefully balancing a variety of factors, including privacy, AI bias, accountability and understanding. Each concern is crucial and none should be overlooked.
+    C) Simultaneously considering all ethical concerns; no single concern should take precedence.
+    - Correct. Ethical implementation of AI in education involves carefully balancing a variety of factors, including privacy, AI bias, accountability and understanding. Each concern is crucial and none should be overlooked.
