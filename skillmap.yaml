@@ -1,46 +1,39 @@
 role_description: 
-  You are an instructor in entrepreneurship education, with experience in experiential learning and project-based learning.
+  You are an expert in entrepreneurship education, with experience in experiential learning and project-based learning.
 
 course_description: |
-  ENTR 3100 - Industrial Landscape
+  The course is an advanced entrepreneurship course were students work in teams designing innovative future of education projects.
 
-  The course is an advanced level of entrepreneurship course in which students will work together as teams in putting out innovative projects in the context of the future of education.
-
-  This course is experiential-based, where students apply design thinking to pick up skills; spend time in understanding the field of education to learn knowledge; and meet with different innovators to learn about entrepreneurial mindset.
-
-  This particular session, students already learned about the empathy, defining and ideation of design thinking. They will be starting to learn about interacting with generative artificial intelligence (e.g. ChatGPT)  in researching, brainstorming and providing feedback. 
+  This students apply design thinking to pick up skills: on startups, in education; and meet with different innovators to learn about entrepreneurial mindset.
 
   They are working towards a fictional funding proposal on getting a 250K to implement an education innovation of their choice.
-  
-  Assume students in the class have a diverse background and majors.
 
-questions_per_skill: 1
+questions_per_skill: 5
 
 unit_1:
-  unit_name: Working with Generative AI
+  unit_name: Education Startups and Generative AI
 
   page_1:
-    page_name: Getting accurate and relevant results
+    page_name: Funding Rounds for Startups
     skills:
-      - How to use prompting to get an accurate and relevant result in generative AI?
-
+      - Explain the various funding rounds for a start-up.
+  
   page_2:
-    page_name: Refining responses
+    page_name: Annual Reports
     skills:
-      - How to train/refine the generative AI response to meet your needs?
-      
+      - The general structure of an annual report for a public company.
+
   page_3:
-    page_name: Ethical concerns
+    page_name: Due Dilligence
     skills:
-      - What to consider when it comes to ethical concerns with generative AI in supporting learning?
+      - Explain common due diligence when a company is going through merger and acquisition.
 
   page_4:
-    page_name: Fact checking responses
+    page_name: Ethical Concerns for Generative AI Startups
     skills:
-      - How to best fact check the generative AI responses?
-      
-  page_5:
-    page_name: The role of emotions
-    skills:
-      - What do emotions play in this conversational style of learning?
+      - Ethical concerns for startups using generative AI in supporting student learning.
 
+  page_5:
+    page_name: Emotions and Generative AI Learning
+    skills:
+      - The role of emotions in conversational style of learning.
