@@ -1,28 +1,6 @@
 Unit_name: Education Startups and Generative AI
 Page_name: Ethical Concerns for Generative AI Startups
 
-1. Why is understanding the nature and purpose of data collection significant in maintaining data privacy for startups using generative AI in education?
-
-    A) It allows startups to collect as much data as possible
-    - Incorrect. The focus should not just be on the amount of data collected. It's about ensuring the data is handled ethically, and this is guided by understanding the nature and purpose of data collection.
-
-    B) It guides startups to establish proper privacy measures and protocols
-    - Correct. By understanding the nature and purpose of data, startups can establish necessary privacy measures and address ethical implications of data usage effectively.
-  
-    C) It helps startups save storage space
-    - Incorrect. While this could be a logistical benefit, it doesn’t primarily align with the ethical concerns revolving around data privacy.
-
-2. Given the continuous evolution of generative AI, how should consent for using student data ideally evolve?
-
-    A) Consent should be a one-time process at the start
-    - Incorrect. Keeping consent a one-time process fails to address potential changes in data collection and usage over time.
-
-    B) Consent should only be taken from adults
-    - Incorrect. This statement fails to accommodate young learners who also have a right to understand and control their data usage.
-
-    C) Consent should regularly be revisited and updated to reflect any changes
-    - Correct. Keeping consent processes up-to-date helps ensure continued transparency and respect for user rights, especially as data usage can evolve significantly.
-
 3. Why is it crucial to expose AI to diverse datasets with respect to ethical implications?
 
     A) To provide the AI with a multilingual capability
